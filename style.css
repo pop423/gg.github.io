@@ -1,0 +1,7 @@
+h1 {
+	color: red;
+}
+
+.first-letter::first-letter {
+	color: red;
+}
